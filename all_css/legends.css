@@ -3,10 +3,15 @@
     box-sizing: border-box;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     background-color: rgb(11, 6, 53);
     font-weight: bold;
     overflow-x: hidden;
+    position: relative;
 }
 
 .b1 {
